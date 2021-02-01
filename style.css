@@ -1,0 +1,44 @@
+
+body {
+    background-color:grey;
+    margin: 0;
+    border: solid;
+    padding: 20px 0;
+    border-left-color:red;
+    border-right-color:blue;
+}
+
+#title {
+    text-align: center;
+    color:darkmagenta;
+    text-shadow: 1px 1px darkmagenta;
+}
+
+#image {
+    text-align: center;
+    cursor: no-drop;
+}
+
+#intro {
+    text-align: center;
+    color:blueviolet;
+}
+
+#lists {
+    text-align: center;
+    color:darkorchid;
+}
+
+#outside {
+    text-align: center;
+    color:blueviolet;
+}
+
+#outside2 {
+    text-align: center;
+    color:darkorchid;
+}
+
+#para {
+    text-align: center;
+}
